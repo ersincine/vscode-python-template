@@ -1,10 +1,10 @@
 # Visual Studio Code + Python
 
-We did:
+Do once:
 
 - `python3 -m venv venv`
 
-Do:
+Then do:
 
 - `source venv/bin/activate` (on Linux + macOS)
 - `python -m pip install <package-name>`
